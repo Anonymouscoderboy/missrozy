@@ -49,7 +49,7 @@ async def save_batch_media_in_channel(bot: Client, editable: Message, message_id
                 InlineKeyboardButton("Delete Batch", callback_data="closeMessage")
             ]])
         )
-        share_link = f"https://t.me/{Config.BOT_USERNAME}?start=Crazydeveloperr_{str_to_b64(str(SaveMessage.id))}"
+        share_link = f"https://t.me/{Config.BOT_USERNAME}?start=LazyDeveloperr_{str_to_b64(str(SaveMessage.id))}"
         await editable.edit(
             f"**𝗙𝗶𝗹𝗲𝘀 𝘀𝘂𝘀𝘀𝗲𝘀𝗳𝘂𝗹𝗹𝘆 𝘀𝗮𝘃𝗲𝗱 ✅**\n\n𝙃𝙚𝙧𝙚 𝙞𝙨 𝙮𝙤𝙪𝙧 𝙇𝙞𝙣𝙠 : {share_link} \n\n"
             f"𝘑𝘶𝘴𝘵 𝘊𝘭𝘪𝘤𝘬 𝘵𝘩𝘦 𝘭𝘪𝘯𝘬 𝘵𝘰 𝘨𝘦𝘵 𝘺𝘰𝘶𝘳 𝘧𝘪𝘭𝘦𝘴!",
@@ -139,7 +139,7 @@ async def save_media_in_channel(bot: Client, editable: Message, message: Message
         await forwarded_msg.reply_text(
             f"#PRIVATE_FILE:\n\n[{message.from_user.first_name}](tg://user?id={message.from_user.id}) Got File Link!",
             disable_web_page_preview=True)
-        share_link = f"https://t.me/{Config.BOT_USERNAME}?start=Crazydeveloperr_{str_to_b64(file_er_id)}"
+        share_link = f"https://t.me/{Config.BOT_USERNAME}?start=LazyDeveloperr_{str_to_b64(file_er_id)}"
         await editable.edit(
             "**𝗙𝗶𝗹𝗲 𝘀𝘂𝘀𝘀𝗲𝘀𝗳𝘂𝗹𝗹𝘆 𝘀𝗮𝘃𝗲𝗱 ✅**\n\n"
             f"♻️ 𝙃𝙚𝙧𝙚 𝙞𝙨 𝙮𝙤𝙪𝙧 𝙡𝙞𝙣𝙠 : {share_link}  \n\n"
