@@ -67,13 +67,23 @@ class Config(object):
 🚀 **ʜᴏꜱᴛᴇᴅ ᴏɴ :** [ʜᴇʀᴏᴋᴜ](https://app.koyeb.com)
 🧑🏻‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ :** [ᴄʀᴀᴢʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​](https://t.me/heartlesssn)</b>"""
 	
-	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 <a href='https://t.me/LazyDeveloperr'>**ミ★- L͢a͢z͢y͢D͢e͢v͢e͢l͢o͢p͢e͢r͢ -★彡** </a>
+	ABOUT_DEV_TEXT = f"""<b>💵 ɪ ʀᴇǫᴜᴇsᴛᴇᴅ ᴛᴏ ʏᴏᴜ 💸
 
-<a href=''https://t.me/LazyDeveloperr>ʟᴀᴢʏᴅᴇᴠᴇʟᴏᴘᴇʀ</a> ɪꜱ ꜱᴜᴘᴇʀ ɴᴏᴏʙ 😎. ᴊᴜꜱᴛ ʟᴇᴀʀɴɪɴɢ ꜰʀᴏᴍ ᴏꜰꜰɪᴄɪᴀʟ ᴅᴏᴄꜱ. ᴘʟᴇᴀꜱᴇ ᴅᴏɴᴀᴛᴇ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰᴏʀ ᴋᴇᴇᴘɪɴɢ ᴛʜᴇ ꜱᴇʀᴠɪᴄᴇ ᴀʟɪᴠᴇ.
-ᴀʟꜱᴏ ʀᴇᴍᴇᴍʙᴇʀ ᴛʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡɪʟʟ ᴅᴇʟᴇᴛᴇ ᴀᴅᴜʟᴛ ᴄᴏɴᴛᴇɴᴛꜱ ꜰʀᴏᴍ ᴅᴀᴛᴀʙᴀꜱᴇ. ꜱᴏ ʙᴇᴛᴛᴇʀ ᴅᴏɴ'ᴛ ꜱᴛᴏʀᴇ ᴛʜᴏꜱᴇ ᴋɪɴᴅ ᴏꜰ ᴛʜɪɴɢꜱ.
-[Donate Now](https://p.paytm.me/xCTH/2jym9edy) (Paytm)
-"""
+ᴘʟᴇᴀsᴇ ᴅᴏɴᴀᴛᴇ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰᴏʀ ᴋᴇᴇᴘɪɴɢ ᴛʜᴇ sᴇʀᴠɪᴄᴇ ᴀʟɪᴠᴇ & ᴋᴇᴇᴘ ʙʀɪɴɢɪɴɢ ᴍᴏʀᴇ ɴᴇᴡ ꜰᴇᴀᴛᴜʀᴇs ꜰᴏʀ ʏᴏᴜ....
+
+𝐘𝐨𝐮 𝐂𝐚𝐧 𝐃𝐨𝐧𝐚𝐭𝐞 𝐀𝐧𝐲 𝐀𝐦𝐨𝐮𝐧𝐭 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 💷
+
+᚜ ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs ᚛
+
+💵<a href=http://bit.ly/IMDBdonate>𝗚𝗼𝗼𝗴𝗹𝗲 𝗣𝗮𝘆</a>
+💸<a href=http://bit.ly/IMDBdonate>𝗣𝗮𝘆𝘁𝗺</a>
+💶<a href=http://bit.ly/IMDBdonate>𝗣𝗵𝗼𝗻𝗲𝗣𝗲</a> 
+
+𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨
+
+ᴄʟɪᴄᴋ ʜᴇʀᴇ : <a href='t.me/heartlesssn'>ᴏᴡɴᴇʀ</a>
+ᴄʟɪᴄᴋ ʜᴇʀᴇ : <a href='t.me/heartlesssn'>ᴏᴡɴᴇʀ</a></b>"""
+	
 	LAZY_HOME_TEXT = """<b>
 ʜᴇʏ, [{}](tg://user?id={})\n\nɪ'ᴍ ᴀ ᴘᴇʀᴍᴀɴᴇɴᴛ **ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ**.
 
