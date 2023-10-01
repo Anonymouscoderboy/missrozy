@@ -129,11 +129,11 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🤖Aß⊕ut ß⊕†", callback_data="aboutbot"),
-                            InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
+                            InlineKeyboardButton("♔ ᴏᴡɴᴇʀ​", callback_data="aboutdevs"),
+                            InlineKeyboardButton("✦ ᴀʙᴏᴜᴛ", callback_data="aboutbot"),
                         ],
                         [
-                            InlineKeyboardButton("ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ", url="https://youtu.be/Rtjyz3lEZwE")
+                            InlineKeyboardButton("≡ ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ≡", url="https://t.me/Crazybotz")
                         ]]))
             
         else:
@@ -368,12 +368,8 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("⚡️SФUЯCΞ CФDΞS ФF ß⊕Γ",
-                                                url="https://github.com/LazyDeveloperr/MissRozy")
-                        ],
-                        [
-                            InlineKeyboardButton("GФ HФMΞ", callback_data="gotohome"),
-                            InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
+                            InlineKeyboardButton("⇍ ʙᴀᴄᴋ", callback_data="gotohome"),
+                            InlineKeyboardButton('ᴄʟᴏsᴇ ⊝', callback_data='close_data')
                         ]
                     ]
                 )
@@ -386,12 +382,12 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("⚡️SФUЯCΞ CФDΞS ФF ß⊕Γ",
-                                                url="https://github.com/LazyDeveloperr/MissRozy")
+                            InlineKeyboardButton('💶 ᴘʟᴇᴀꜱᴇ ᴅᴏɴᴀᴛᴇ 💶',
+                                                url="http://bit.ly/IMDBdonate")
                         ],
                         [
-                            InlineKeyboardButton("🤖Aß⊕ut ß⊕t", callback_data="aboutbot"),
-                            InlineKeyboardButton("🥷GФ HФMΞ", callback_data="gotohome")
+                            InlineKeyboardButton("⇍ ʙᴀᴄᴋ", callback_data="gotohome"),
+                            InlineKeyboardButton('💭 ᴄᴏɴᴛᴀᴄᴛ​', url='t.me/heartlesssn')
                         ]
                     ]
                 )
