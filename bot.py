@@ -185,8 +185,8 @@ async def Lazy_start():
             await message.reply_text(
                 text="ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ꜰʀᴏᴍ ʙᴇʟᴏᴡ:",
                 reply_markup=InlineKeyboardMarkup([
-                    [InlineKeyboardButton("ŞΔV€ ƗŇ βΔŦĆĦ", callback_data="addToBatchTrue")],
-                    [InlineKeyboardButton(" ̿̿ ̿̿ ̿   𝘎𝘦𝘵 𝘚𝘩𝘢𝘳𝘢𝘣𝘭𝘦 𝘓𝘪𝘯𝘬 '̿̿ ̿ ̿ ̿ ̿", callback_data="addToBatchFalse")]
+                    [InlineKeyboardButton("ꜱᴀᴠᴇ ɪɴ ʙᴇᴛᴄʜ", callback_data="addToBatchTrue")],
+                    [InlineKeyboardButton("ɢᴇᴛ ꜱʜᴀʀᴀʙʟᴇ ʟɪɴᴋ ↺", callback_data="addToBatchFalse")]
                 ]),
                 quote=True,
                 disable_web_page_preview=True
@@ -405,7 +405,7 @@ async def Lazy_start():
                             InlineKeyboardButton("✦ ᴀʙᴏᴜᴛ", callback_data="aboutbot")
                         ],
                         [
-                            InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://youtu.be/Rtjyz3lEZwE")
+                            InlineKeyboardButton("≡ ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ≡", url="https://t.me/Crazybotz")
                         ]
                     ]
                 )
@@ -421,7 +421,7 @@ async def Lazy_start():
                             InlineKeyboardButton("✦ ᴀʙᴏᴜᴛ", callback_data="aboutbot")
                         ],
                         [
-                            InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://youtu.be/Rtjyz3lEZwE")
+                            InlineKeyboardButton("≡ ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ≡", url="https://t.me/Crazybotz")
                         ]
                     ]
                 )
@@ -475,7 +475,7 @@ async def Lazy_start():
                             InlineKeyboardButton("✦ ᴀʙᴏᴜᴛ", callback_data="aboutbot")
                         ],
                         [
-                            InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://youtu.be/Rtjyz3lEZwE")
+                            InlineKeyboardButton("≡ ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ≡", url="https://t.me/Crazybotz")
                         ]
                     ]
                 )
@@ -491,7 +491,7 @@ async def Lazy_start():
                             InlineKeyboardButton("✦ ᴀʙᴏᴜᴛ", callback_data="aboutbot")
                         ],
                         [
-                            InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://youtu.be/Rtjyz3lEZwE")
+                            InlineKeyboardButton("≡ ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ≡", url="https://t.me/Crazybotz")
                         ]
                     ]
                 )
